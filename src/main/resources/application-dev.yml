@@ -1,0 +1,5 @@
+spring:
+  message: vandaag ging ik naar het frituur
+
+server:
+  port: 8081
